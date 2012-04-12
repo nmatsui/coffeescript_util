@@ -10,8 +10,11 @@ arrayutil
 
 注意）
 Array.prototypeにメソッドを組み込みます。
+
 Array.prototypeを汚染すべきではない場合、
-  Array.prototype.combination = (k) -> combination(k, this)
+
+    Array.prototype.combination = (k) -> combination(k, this)
+
 をコメントアウトしてください
 
 ライセンス
