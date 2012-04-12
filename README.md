@@ -4,6 +4,7 @@ CoffeeScript Util
 CoffeeScriptの勉強を兼ね、いろいろUtilityを書く。
 
 node 0.6.15で動作確認。下記のモジュールに依存します。
+
 * [coffee-script@1.3.1](http://coffeescript.org/)
 * [mocha@1.0.1](http://visionmedia.github.com/mocha/)
 * [should@0.6.1](https://github.com/visionmedia/should.js)
